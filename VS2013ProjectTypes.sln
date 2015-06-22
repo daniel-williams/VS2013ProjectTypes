@@ -24,6 +24,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc5Boilerplate", "Mvc5Boil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJsSpa", "AngularJsSpa\AngularJsSpa.csproj", "{3CA01BF6-3DD3-4928-826B-CC636E867890}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NgNet", "NgNet\NgNet.csproj", "{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,10 @@ Global
 		{3CA01BF6-3DD3-4928-826B-CC636E867890}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CA01BF6-3DD3-4928-826B-CC636E867890}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CA01BF6-3DD3-4928-826B-CC636E867890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AB0A3F4-F35F-4F99-8F53-E1DDD4A2227F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
